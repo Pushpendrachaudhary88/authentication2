@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form-class{
+  display: grid;
+  width: 40%;
+  padding: 10px;
+
+}
+.form-class input{
+  margin-top: 10px;
+    /* margin-bottom: 10px; */
+    /* width: 70%; */
+    height: 5vh;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.form-class button{
+  margin-top: 10px;
+  height: 6vh;
+  border-radius: 16px;
+  background-color: deepskyblue;
+}
